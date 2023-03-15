@@ -1,0 +1,99 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "3vS-Z8-Kfw"; */
+"3vS-Z8-Kfw.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Screen 1"; ObjectID = "5qS-Tf-7jx"; */
+"5qS-Tf-7jx.title" = "Screen 1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8bA-3i-aYC"; */
+"8bA-3i-aYC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "F03-Gx-hg1"; */
+"F03-Gx-hg1.text" = "Full name";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "H1K-1P-lCF"; */
+"H1K-1P-lCF.text" = "Country";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Isq-Hm-iZg"; */
+"Isq-Hm-iZg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KEq-ZO-EqB"; */
+"KEq-ZO-EqB.text" = "Label";
+
+/* Class = "UITextField"; text = "youremail@domain.com"; ObjectID = "Ln9-5G-sSn"; */
+"Ln9-5G-sSn.text" = "youremail@domain.com";
+
+/* Class = "UILabel"; text = "Vibrate"; ObjectID = "Np3-F0-oQn"; */
+"Np3-F0-oQn.text" = "Vibrate";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "PPx-nW-KI5"; */
+"PPx-nW-KI5.normalTitle" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q0Z-Vw-bxT"; */
+"Q0Z-Vw-bxT.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "45 New Avenue, New York"; ObjectID = "RlC-sL-s7a"; */
+"RlC-sL-s7a.text" = "45 New Avenue, New York";
+
+/* Class = "UINavigationItem"; title = "Edit profile"; ObjectID = "Rnu-gs-enE"; */
+"Rnu-gs-enE.title" = "Edit profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RrX-mE-Ldu"; */
+"RrX-mE-Ldu.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "puerto_rico"; ObjectID = "UQc-oN-ju7"; */
+"UQc-oN-ju7.text" = "puerto_rico";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Xju-2u-TRd"; */
+"Xju-2u-TRd.text" = "Address";
+
+/* Class = "UINavigationItem"; title = "Choose Country"; ObjectID = "YGk-nB-iaA"; */
+"YGk-nB-iaA.title" = "Choose Country";
+
+/* Class = "UINavigationItem"; title = "Screen 3"; ObjectID = "YWt-X2-wSi"; */
+"YWt-X2-wSi.title" = "Screen 3";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "abm-kY-tgZ"; */
+"abm-kY-tgZ.text" = "Sound";
+
+/* Class = "UILabel"; text = "General Notifications"; ObjectID = "cE1-id-4dZ"; */
+"cE1-id-4dZ.text" = "General Notifications";
+
+/* Class = "UITextField"; text = "123-456-7890"; ObjectID = "cjg-1F-MS4"; */
+"cjg-1F-MS4.text" = "123-456-7890";
+
+/* Class = "UINavigationItem"; title = "Screen 2"; ObjectID = "fxv-U8-jnb"; */
+"fxv-U8-jnb.title" = "Screen 2";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "hX4-bT-2sh"; */
+"hX4-bT-2sh.normalTitle" = "Profile";
+
+/* Class = "UITextField"; text = "Puerto Rico"; ObjectID = "i7s-Vx-T80"; */
+"i7s-Vx-T80.text" = "Puerto Rico";
+
+/* Class = "UIButton"; normalTitle = "LogOut"; ObjectID = "oi8-e5-AeX"; */
+"oi8-e5-AeX.normalTitle" = "LogOut";
+
+/* Class = "UILabel"; text = "Nick name"; ObjectID = "pUM-mz-nmE"; */
+"pUM-mz-nmE.text" = "Nick name";
+
+/* Class = "UITextField"; text = "Female"; ObjectID = "r7D-zn-9jr"; */
+"r7D-zn-9jr.text" = "Female";
+
+/* Class = "UIButton"; normalTitle = "T&C"; ObjectID = "rgy-QW-tv7"; */
+"rgy-QW-tv7.normalTitle" = "T&C";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "xHP-7M-qjv"; */
+"xHP-7M-qjv.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "yNz-C1-p16"; */
+"yNz-C1-p16.text" = "United States";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "yYm-wF-XLQ"; */
+"yYm-wF-XLQ.text" = "Gender";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ylc-01-8Vo"; */
+"ylc-01-8Vo.text" = "Email";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "zhU-B1-8DQ"; */
+"zhU-B1-8DQ.text" = "Phone number";
